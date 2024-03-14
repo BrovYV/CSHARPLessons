@@ -1,0 +1,15 @@
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/bin/Debug/net8.0/Task5
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/bin/Debug/net8.0/Task5.deps.json
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/bin/Debug/net8.0/Task5.runtimeconfig.json
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/bin/Debug/net8.0/Task5.dll
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/bin/Debug/net8.0/Task5.pdb
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.AssemblyInfoInputs.cache
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.AssemblyInfo.cs
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.csproj.CoreCompileInputs.cache
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.sourcelink.json
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.dll
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/refint/Task5.dll
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.pdb
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/Task5.genruntimeconfig.cache
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task5/obj/Debug/net8.0/ref/Task5.dll
