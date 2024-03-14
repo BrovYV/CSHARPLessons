@@ -12,3 +12,4 @@
 /Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
 /Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
 /Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
+/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/obj/Debug/net8.0/Task1.sourcelink.json
