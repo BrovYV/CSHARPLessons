@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task3/Task3.csproj",
+      "projectUniqueName": "/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Task3/Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task3/Task3.csproj",
+      "projectPath": "/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Task3/Task3.csproj",
       "packagesPath": "/Users/yuribrovko/.nuget/packages/",
-      "outputPath": "/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task3/obj/",
+      "outputPath": "/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Task3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yuribrovko/.nuget/NuGet/NuGet.Config"

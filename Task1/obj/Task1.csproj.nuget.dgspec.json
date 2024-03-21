@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/Task1.csproj": {}
+    "/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Task1/Task1.csproj": {}
   },
   "projects": {
-    "/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/Task1.csproj": {
+    "/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Task1/Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/Task1.csproj",
+        "projectUniqueName": "/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Task1/Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/Task1.csproj",
+        "projectPath": "/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Task1/Task1.csproj",
         "packagesPath": "/Users/yuribrovko/.nuget/packages/",
-        "outputPath": "/Users/yuribrovko/Desktop/Обучение GB/01_csharp/Lesson1/Task1/obj/",
+        "outputPath": "/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yuribrovko/.nuget/NuGet/NuGet.Config"
