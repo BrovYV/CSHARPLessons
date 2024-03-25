@@ -1,0 +1,15 @@
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/bin/Debug/net8.0/Les3_func2
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/bin/Debug/net8.0/Les3_func2.deps.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/bin/Debug/net8.0/Les3_func2.runtimeconfig.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/bin/Debug/net8.0/Les3_func2.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/bin/Debug/net8.0/Les3_func2.pdb
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/Les3_func2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/Les3_func2.AssemblyInfoInputs.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/Les3_func2.AssemblyInfo.cs
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/Les3_func2.csproj.CoreCompileInputs.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/Les3_func2.sourcelink.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/Les3_func2.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/refint/Les3_func2.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/Les3_func2.pdb
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/Les3_func2.genruntimeconfig.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/Les3_func2/obj/Debug/net8.0/ref/Les3_func2.dll

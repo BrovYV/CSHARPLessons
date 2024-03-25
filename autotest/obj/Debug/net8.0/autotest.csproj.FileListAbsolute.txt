@@ -1,0 +1,15 @@
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/bin/Debug/net8.0/autotest
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/bin/Debug/net8.0/autotest.deps.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/bin/Debug/net8.0/autotest.runtimeconfig.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/bin/Debug/net8.0/autotest.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/bin/Debug/net8.0/autotest.pdb
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/autotest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/autotest.AssemblyInfoInputs.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/autotest.AssemblyInfo.cs
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/autotest.csproj.CoreCompileInputs.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/autotest.sourcelink.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/autotest.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/refint/autotest.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/autotest.pdb
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/autotest.genruntimeconfig.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/autotest/obj/Debug/net8.0/ref/autotest.dll
