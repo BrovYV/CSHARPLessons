@@ -1,0 +1,15 @@
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/sem4_task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/sem4_task3.AssemblyInfoInputs.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/sem4_task3.AssemblyInfo.cs
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/sem4_task3.csproj.CoreCompileInputs.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/sem4_task3.sourcelink.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/bin/Debug/net8.0/sem4_task3
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/bin/Debug/net8.0/sem4_task3.deps.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/bin/Debug/net8.0/sem4_task3.runtimeconfig.json
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/bin/Debug/net8.0/sem4_task3.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/bin/Debug/net8.0/sem4_task3.pdb
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/sem4_task3.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/refint/sem4_task3.dll
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/sem4_task3.pdb
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/sem4_task3.genruntimeconfig.cache
+/Users/yuribrovko/Desktop/Обучение GB/CSHARPLessons/Lesson1/sem4_task3/obj/Debug/net8.0/ref/sem4_task3.dll
